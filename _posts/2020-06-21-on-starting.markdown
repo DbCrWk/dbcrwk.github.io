@@ -3,6 +3,7 @@ layout: post
 title:  on Starting
 date:   2020-06-22 00:01:00 -0400
 category: Meta
+author: [dbcrwk]
 ---
 
 My first computer was an old Compaq that my dad built on a languid summer weekend.
