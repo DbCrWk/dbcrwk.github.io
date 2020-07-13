@@ -2,7 +2,7 @@
 DbCrWk Public Website
 
 ## Development
-Run
+After installing dependencies, run
 ```bash
 bundle exec jekyll serve
 ```
