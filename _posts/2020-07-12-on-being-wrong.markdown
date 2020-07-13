@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  on Being Wrong
-date:   2020-07-13 1:00:00 -0400
+date:   2020-07-12 1:00:00 -0400
 category: Science
 author: [dbcrwk]
 ---
